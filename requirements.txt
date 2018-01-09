@@ -1,0 +1,4 @@
+cffi==1.11.2
+fusepy==2.0.4
+pycparser==2.18
+six==1.6.1
